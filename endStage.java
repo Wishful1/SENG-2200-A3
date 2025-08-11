@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class endStage extends Stage
 {
-	private interStageQueue input; //this is the prev storage queue
+	private interStageQueue input; // this is the prev storage queue
 	private ArrayList<Item> output; //this is the final output array
 
 	//initalises with the user inputted variables and the needed input and output
